@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: 1561807503ffa2dd9a81e73b001d38f1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: d40847c93ae1b0d8f9da777e905dd2f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottoms
+    second: {fileID: 2100000, guid: 3bc0e0a6667e99a80a8bac97a2a14948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye.White
+    second: {fileID: 2100000, guid: 942611b0509aa76dc800eb4d3c05cde0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeReflection
+    second: {fileID: 2100000, guid: 3c538e1a125450578a049708b558f052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyelid
+    second: {fileID: 2100000, guid: 14504af5a00deffb8ab648e42829b138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes
+    second: {fileID: 2100000, guid: 9d5abdfea69bfeafd8cc3283cd43a6ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 114fd1c37a1c1d1a59517bf8d04e22ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: f989808b379fdcd49b9ef81b47c9a16e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tops
+    second: {fileID: 2100000, guid: e63f9402076c4d2a7af3b2d962739c1d, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f66ead3390398f443aa127b741826ad9, type: 3}
+  MigrateToVrm1: 0
+  RenderPipeline: 1
