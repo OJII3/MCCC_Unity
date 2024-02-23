@@ -110,12 +110,12 @@ Shader "Hidden/ltsother_baker"
             #define LIL_FEATURE_DISSOLVE
             #define LIL_FEATURE_DITHER
             #define LIL_FEATURE_IDMASK
+            #define LIL_FEATURE_UDIMDISCARD
             #define LIL_FEATURE_OUTLINE_TONE_CORRECTION
             #define LIL_FEATURE_OUTLINE_RECEIVE_SHADOW
             #define LIL_FEATURE_ANIMATE_OUTLINE_UV
             #define LIL_FEATURE_FUR_COLLISION
             #define LIL_FEATURE_BumpMap
-            #define LIL_FEATURE_ShadowColorTex
             #define LIL_FEATURE_MetallicGlossMap
             #define LIL_FEATURE_EmissionMap
             #define LIL_OPTIMIZE_APPLY_SHADOW_FA
