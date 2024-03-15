@@ -64,7 +64,7 @@
     "LIL_FEATURE_ShadowBorderMask": false,
     "LIL_FEATURE_ShadowBlurMask": false,
     "LIL_FEATURE_ShadowStrengthMask": false,
-    "LIL_FEATURE_ShadowColorTex": false,
+    "LIL_FEATURE_ShadowColorTex": true,
     "LIL_FEATURE_Shadow2ndColorTex": false,
     "LIL_FEATURE_Shadow3rdColorTex": false,
     "LIL_FEATURE_BacklightColorTex": false,
